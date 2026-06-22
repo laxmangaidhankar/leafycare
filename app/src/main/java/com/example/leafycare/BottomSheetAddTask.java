@@ -31,10 +31,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-import leafy.NotificationReceiverforTask;
-import leafy.Task;
-import leafy.TimePickerFragment;
-
 public class BottomSheetAddTask extends BottomSheetDialogFragment {
 
     private Spinner plantNameSpinner, frequencySpinner;
